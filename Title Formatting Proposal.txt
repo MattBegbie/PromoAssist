@@ -1,0 +1,13 @@
+How to format the your Commits so they can be used easily
+  Standard Formatting
+    "Title [Jira Ticket] (#PR)"
+    "[FM-207] Adding Conditional Logic to Callout box (#4170)" <--note the Ticket and PR can be anywhere as long as they are contained in the brackets and parentheses
+
+
+  Legend
+    - Standard
+    (#0000) The PR number should be contained in parentheses and followed by a pound or hash sign
+    [FM-123] The Jira ticket ID should be contained in square brackets
+    - Missing information
+    (#NoPR)   If there is no PR number put 'NoPR' inside of the parentheses where the number would normally go
+    [NoT]     If there is no Jira ticket use the code 'NoT' inside the brackets that the ticket ID would be contained in
