@@ -1,4 +1,4 @@
-How to format the your Commits so they can be used easily
+How to format the your Commits so they can be used easily by the program
   Standard Formatting
     "Title [Jira Ticket] (#PR)"
     "[FM-207] Adding Conditional Logic to Callout box (#4170)" <--note the Ticket and PR can be anywhere as long as they are contained in the brackets and parentheses
